@@ -1,1 +1,0 @@
-This is my GitHub Pages site. It uses Jekyll.
