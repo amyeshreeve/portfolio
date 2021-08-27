@@ -5,8 +5,8 @@
     <description>A student portfolio</description>
     <link>/portfolio/</link>
     <atom:link href="/portfolio/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 27 Aug 2021 15:52:25 +0000</pubDate>
-    <lastBuildDate>Fri, 27 Aug 2021 15:52:25 +0000</lastBuildDate>
+    <pubDate>Fri, 27 Aug 2021 19:24:23 +0000</pubDate>
+    <lastBuildDate>Fri, 27 Aug 2021 19:24:23 +0000</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
@@ -64,7 +64,7 @@ Take a second today and try to learn the history about just one city block aroun
     
       <item>
         <title>This Used to be a Synagogue Bot</title>
-        <description>&lt;p&gt;This is (for now) the final installment in my synagogue data analysis. Using the data I gathered, I constructed a Twitter Bot using Twitter and Google APIs. This bot posts Google Streetview images of the places where synagogues and Jewish organizations used to be located.&lt;br /&gt;
+        <description>&lt;p&gt;This is (for now) the final installment in my synagogue data analysis. Using the data Using the &lt;a href=&quot;https://genealogy.cjh.org/synagogue-map&quot;&gt;data gathered&lt;/a&gt; by the Ackman &amp;amp; Ziff Family Genealogy Institute at the Center for Jewish History, I constructed a Twitter Bot using Twitter and Google APIs. This bot posts Google Streetview images of the places where synagogues and Jewish organizations used to be located.&lt;br /&gt;
 Find the bot &lt;a href=&quot;https://twitter.com/OldShulSpots&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;construction&quot;&gt;Construction&lt;/h2&gt;
@@ -231,7 +231,7 @@ However, as the data is, it accurately reflects the rate of Jewish immigration t
     
       <item>
         <title>Cleaning &amp; Clarifying Synagogue Data</title>
-        <description>&lt;p&gt;I used data compiled from the 1900-1 &amp;amp; 1907-8 Jewish Yearbooks and the 1939 WPA Survey of Manhattan, New York to map and understand Jewish organizations in the borough. I heavily relied upon the &lt;a href=&quot;https://genealogy.cjh.org/synagogue-list&quot;&gt;Center for Jewish History’s Ackman and Ziff Genealogy Institute’s synagogue list&lt;/a&gt; for this project.&lt;/p&gt;
+        <description>&lt;p&gt;I used data compiled from the 1900-1 &amp;amp; 1907-8 Jewish Yearbooks and the 1939 WPA Survey of Manhattan, New York to map and understand Jewish organizations in the borough. I heavily relied upon the &lt;a href=&quot;https://genealogy.cjh.org/synagogue-map&quot;&gt;Center for Jewish History’s Ackman and Ziff Genealogy Institute’s synagogue list&lt;/a&gt; for this project.&lt;/p&gt;
 
 &lt;h2 id=&quot;reasoning-and-assumptions&quot;&gt;Reasoning and Assumptions&lt;/h2&gt;
 
